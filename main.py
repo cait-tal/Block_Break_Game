@@ -1,6 +1,6 @@
 # Handles creation of screen and player inputs
 from turtle import Screen
-from breakout import *
+from game import *
 import time
 
 SCREEN_HEIGHT = 700
